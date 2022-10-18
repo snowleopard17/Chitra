@@ -1,5 +1,9 @@
 # Chitra
 Mobile app made using flutter framework for Image Editing
+Implemented using least external code
+
+# Screenshots
+[Wall](https://github.com/snowleopard17/Chitra/blob/master/Screenshot/Screenshot.png)
 
 # Motive
 Module 3 game project HITS.
